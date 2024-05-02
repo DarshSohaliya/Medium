@@ -1,6 +1,6 @@
 node_modules
 dist
-.wrangler.tomal
+wrangler.toml
 .dev.vars
 .env
 
